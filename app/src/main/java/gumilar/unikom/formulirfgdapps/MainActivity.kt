@@ -6,6 +6,11 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
+// Hari/tanggal: Senin, 19 Mei 2025
+// NIM        : 10122155
+// Nama       : Gumilar Muhammad Naqib
+// Kelas      : PA-3
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
