@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FormulirFgdApps</string>
+    <string name="title_app">Daftar Hadir FGD</string>
+    <string name="title_app_result">Anda telah berhasil terdaftar</string>
+    <string name="name_hint">Ketikkan nama lengkap anda</string>
+    <string name="name">Nama anda</string>
+    <string name="phone">No HP aktif</string>
+    <string name="phone_hint">Ketikkan nomor HP aktif anda</string>
+    <string name="email">Email anda</string>
+    <string name="email_hint">Ketikkan email anda</string>
+
+    <string name="rad_gender">Jenis Kelamin</string>
+    <string name="rad_male">Laki-Laki</string>
+    <string name="rad_female">Perempuan</string>
+
+    <string name="chk_skillset">Skill Anda</string>
+    <string name="chk_algo">Algoritma</string>
+    <string name="chk_problem_solving">Problem Solving</string>
+    <string name="chk_programming">Programming</string>
+    <string name="chk_design_thinking">Design Thinking</string>
+    <string name="chk_critical_thinking">Critical Thinking</string>
+
+    <string name="category">Kategori Peserta</string>
+
+    <string name="submit">Simpan</string>
+</resources>
